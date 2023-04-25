@@ -6,4 +6,6 @@
 
 html{
     background: linear-gradient(249.92deg, #1C3575 16.2%, #000000 95.17%);
+    background-repeat: no-repeat;
+    background-size: 100% 1000px;
 }
